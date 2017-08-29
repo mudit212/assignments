@@ -1,0 +1,2 @@
+127.0.0.1 - - [29/Aug/2017:12:17:31 +0000] "GET /form HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36"
+127.0.0.1 - - [29/Aug/2017:12:17:40 +0000] "POST /submit HTTP/1.1" 200 61 "http://127.0.0.1:3000/form" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36"
